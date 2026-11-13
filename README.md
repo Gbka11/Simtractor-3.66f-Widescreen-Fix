@@ -51,6 +51,8 @@ cl /nologo /LD /O2 /MT src\widescreen.cpp /Fe:mods\widescreen.asi user32.lib
 or run `build.bat`.
 
 ---
+## ☕ Support 
+If my mods helped you, you can buy me a coffee: [ko-fi.com/gbka1](https://ko-fi.com/gbka1)
 
 ## Polski
 
@@ -85,3 +87,6 @@ Otwórz **x86 Native Tools Command Prompt for VS** (32-bitowy) w folderze projek
 cl /nologo /LD /O2 /MT src\widescreen.cpp /Fe:mods\widescreen.asi user32.lib
 ```
 albo uruchom `build.bat`.
+
+## ☕ Wsparcie
+Jeśli moje mody Ci się przydały, możesz postawić mi kawę: [ko-fi.com/gbka1](https://ko-fi.com/gbka1)
