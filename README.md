@@ -46,7 +46,7 @@ Delete `mods\widescreen.asi` and `mods\widescreen.ini`.
 ### Build
 Open **x86 Native Tools Command Prompt for VS** (32-bit) in the project folder:
 ```
-cl /nologo /LD /O2 /MT src\widescreen.cpp /Fe:mods\widescreen.asi user32.lib
+cl /nologo /LD /O2 /MT widescreen.cpp /Fe:widescreen.asi user32.lib
 ```
 or run `build.bat`.
 
@@ -82,10 +82,12 @@ Opis kluczy jak w tabeli powyżej. Formaty wpisów `TextScaleList` są opisane w
 ### Kompilacja
 Otwórz **x86 Native Tools Command Prompt for VS** (32-bitowy) w folderze projektu:
 ```
-cl /nologo /LD /O2 /MT src\widescreen.cpp /Fe:mods\widescreen.asi user32.lib
+cl /nologo /LD /O2 /MT widescreen.cpp /Fe:widescreen.asi user32.lib
 ```
 albo uruchom `build.bat`.
 
+
 ## ☕ Support / Wsparcie
 If my mods helped you, you can buy me a coffee: [ko-fi.com/gbka1](https://ko-fi.com/gbka1)
+
 Jeśli moje mody Ci się przydały, możesz postawić mi kawę: [ko-fi.com/gbka1](https://ko-fi.com/gbka1)
