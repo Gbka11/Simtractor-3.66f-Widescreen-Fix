@@ -2,7 +2,7 @@
 
 **Author:** Sponge (Gbka)  
 **Game:** SimTractor V3.66f (32-bit), original game files  
-**Requires:** [ASI Loader for SimTractor (d3d9.dll)](../ASI_Loader)
+**Requires:** [ASI Loader for SimTractor (d3d9.dll)](https://github.com/Gbka11/ASI-loader-for-SimTractor-V3.66f)
 
 🇬🇧 [English](#english) · 🇵🇱 [Polski](#polski)
 
